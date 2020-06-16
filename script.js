@@ -5,7 +5,7 @@ const element = document.querySelector("div h1");
 element.style.color = "blue";
 element.style.backgroundColor = "yellow";
 element.style.fontSize = "90px";
-element.style.fontSize = "Arial";
+element.style.fontFamily = "Arial";
 element.style.textAlign = "center";
 
 /*Cara 2 */
